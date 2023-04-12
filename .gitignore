@@ -1,12 +1,23 @@
+# Ignore folders
+data/archive/*
+divvy_presentation_sampleslides_files/*
+docs/*
+images/*
+scripts/*
+literature/*
+divvy_presentation_sampleslides.html
+
 # History files
 .Rhistory
 .Rapp.history
+
 
 # Session Data files
 .RData
 
 # User-specific files
 .Ruserdata
+*.Rproj
 
 # Example code in package build process
 *-Ex.R
